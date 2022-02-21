@@ -5,7 +5,7 @@ permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
+  align: right
   image: gjs1.jpg
 
 news: false  # includes a list of news items
