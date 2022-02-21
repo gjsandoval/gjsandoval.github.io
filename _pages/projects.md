@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects
-order: 3
+sort: 3
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
