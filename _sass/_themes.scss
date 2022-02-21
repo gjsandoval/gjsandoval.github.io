@@ -16,7 +16,7 @@
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #{$white-color};
 
-  .fa-sun {
+  .fa-lightbulb-on {
     display : none;
   }
   .fa-moon {
@@ -40,7 +40,7 @@ html[data-theme='dark'] {
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
 
-  .fa-sun {
+  .fa-lightbulb-on {
     padding-left: 10px;
     padding-top: 12px;
     display : block;
