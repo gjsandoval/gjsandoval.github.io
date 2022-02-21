@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Cost-efficient clinical studies with continuous time survival outcomes
+description: This calculator provides optimal study design parameters values for minimizing the expected total study cost for studies with survival outcomes.
+img: 
+redirect: https://gjsandoval.shinyapps.io/cost-survival/
 importance: 2
 category: work
 ---
