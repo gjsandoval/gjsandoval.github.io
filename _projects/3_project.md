@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Cost-efficient two stage sequential multiple assignment randomized trial (SMART) designs
-description: This calculator provides optimal group allocation probabilities for minimizing the total study cost for sequential multiple assignment randomized trials (SMART).
+title: Cost-efficient multiply matched case-control study designs
+description: This calculator provides the optimal numbers of cases and controls for multiply matched case-control studies.
 img: 
-redirect: https://gjsandoval.shinyapps.io/cost-smart-compass/
+redirect: https://gjsandoval.shinyapps.io/cost-casecontrol/
 importance: 3
 category: work
 ---
