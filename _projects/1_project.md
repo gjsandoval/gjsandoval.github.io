@@ -4,7 +4,7 @@ title: Prediction of vaginal birth after cesarean in term gestations: A calculat
 description: This is an update to the MFMU caculator that estimates the probability of vaginal birth after cesarean delivery that does not include race or ethnicity.
 img: 
 redirect: https://mfmunetwork.bsc.gwu.edu/web/mfmunetwork/vaginal-birth-after-cesarean-calculator
-importance: 3
+importance: 1
 category: work
 ---
 
