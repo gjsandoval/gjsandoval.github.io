@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Cost-efficient two stage sequential multiple assignment randomized trial (SMART) designs
+description: This calculator provides optimal group allocation probabilities for minimizing the total study cost for sequential multiple assignment randomized trials (SMART).
+img: 
+redirect: https://gjsandoval.shinyapps.io/cost-smart-compass/
 importance: 3
 category: work
 ---
