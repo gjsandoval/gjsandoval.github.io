@@ -12,6 +12,6 @@ nav: true
 If the embedded PDF below does not load, you can <u><a href="https://gjsandoval.github.io/assets/pdf/GSANDOVAL-ResumeCV.pdf">download it here.</a></u>
 <br/>
 
-<embed src="https://gjsandoval.github.io/assets/pdf/GSANDOVAL-ResumeCV.pdf" type="application/pdf" width="100%" />
+<embed src="https://gjsandoval.github.io/assets/pdf/GSANDOVAL-ResumeCV.pdf" type="application/pdf" width="100%" height="150%" />
 
 
