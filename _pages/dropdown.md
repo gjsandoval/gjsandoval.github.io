@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-order: 5
+sort: 5
 nav: true
 dropdown: true
 children: 
